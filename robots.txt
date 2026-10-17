@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-dfc3508165.coolwol.cn/sitemap.xml
